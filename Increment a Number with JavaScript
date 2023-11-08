@@ -1,0 +1,7 @@
+i++;
+is the equivalent of
+i = i + 1;
+Change the code to use the ++ operator on myVar.
+let myVar = 87;
+myVar = myVar + 1;
+myVar++;
