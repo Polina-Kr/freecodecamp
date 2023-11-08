@@ -1,0 +1,6 @@
+i--;
+is the equivalent of
+i = i - 1;
+let myVar = 11;
+myVar = myVar - 1;
+myVar--
